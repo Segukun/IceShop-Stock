@@ -1,3 +1,10 @@
+# Alumnos:
+-Cáceres Joaquín
+-Del Giorgio Segundo
+-Galeano Sebastián
+-Sananton Aime
+
+
 # IceStock
 
 IceStock es una aplicación web local diseñada para gestionar el stock de una heladería de forma simple y eficiente. Permite a los empleados registrar productos, controlar cantidades y llevar un seguimiento de los movimientos de stock.
